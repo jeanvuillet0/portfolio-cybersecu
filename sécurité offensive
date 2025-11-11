@@ -1,1 +1,2 @@
-dirb http://example.thm /usr/share/wordlists/dirb/common.txt 
+UBUNTU
+test plusieurs url : dirb http://example.thm /usr/share/wordlists/dirb/common.txt 
